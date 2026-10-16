@@ -283,7 +283,7 @@ The high number of 1-star reviews makes customer feedback an important area for 
 # Tools & Skills
 
 **Tools:**  
-Microsoft Excel 2016 · Power Query · Power Pivot · DAX · PivotTables · PivotCharts · Excel Slicers
+Microsoft Excel · Power Query · Power Pivot · DAX · PivotTables · PivotCharts · Excel Slicers
 
 **Skills demonstrated:**  
 Data cleaning · Data transformation · Data modelling · Table relationships · DAX measures · Time intelligence · Sales analysis · Product analysis · Category analysis · Supplier analysis · Discount analysis · Operational analysis · Dashboard development
