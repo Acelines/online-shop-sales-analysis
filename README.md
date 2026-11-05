@@ -98,8 +98,6 @@ The dataset recorded **$1.27M in Total Sales after discounts across 830 orders a
 
 Average order value was **$1,525.05**.
 
-**Year-over-year sales growth was 53.4%**, comparing sales with the corresponding previous-year period.
-
 ---
 
 ## Sales Varied Significantly by Year
