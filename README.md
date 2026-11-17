@@ -1,10 +1,10 @@
-# Online Shop 2024 — Sales & Commercial Performance Analysis
+# Online Shop — Sales & Commercial Performance Analysis
 
 ## Project Overview
 
 This project analyzes an online retail dataset to understand sales performance, product and category contribution, customer activity, supplier concentration, discounting, freight, and shipment performance.
 
-The project was built in **Excel 2016** using **Power Query, Power Pivot, DAX, PivotTables, PivotCharts, and interactive dashboards**.
+The project was built in **Microsoft Excel** using **Power Query, Power Pivot, DAX, PivotTables, PivotCharts, and interactive dashboards**.
 
 The goal was to turn raw transactional data into a structured analytical model and use it to produce practical commercial and operational insights.
 
